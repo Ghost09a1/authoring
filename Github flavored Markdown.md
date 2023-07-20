@@ -1,9 +1,16 @@
 # External Link
   [This is an external link to Github Help](https://help.github.com/en)
 # Internal Link
-  [An Internal Link](1.png)
+  [An Internal Link](/Bilder/1.png)
 # Images
-  ![](1.png)
+  <img src="/Bilder/2.png"
+     alt="Fox"
+     style="float: left; margin-right: 10px;" />
 # Emojis
   :heart_eyes:
 # Tables
+| names | class |   
+|-------|-------|
+| Niku  | 1a    | 
+| Akai  | 1b    |
+| Enoki |  1c   |

@@ -1,24 +1,25 @@
 # Github flavored Markdown
- - [ ] External Link
+
+  - [x] [External Link](#EL)
   
- - [ ] Internal Link
+  - [x] [Internal Link](#IL)
   
- - [ ] Images
+  - [x] [Images](#Images)
   
- - [ ] Emojis
+  - [x] [Emojis](#Emojis)
   
- - [ ] Table
-  ## External Link
+  - [x] [Table](#Table)
+  ## <a name="EL">External Link</a>
     [This is an external link to Github Help](https://help.github.com/en)
-  ## Internal Link
+  ## <a name="IL">Internal Link</a>
     [An Internal Link](/Bilder/1.png)
-  ## Images
+  ## <a name="Images">Images</a>
     <img src="/Bilder/2.png"
        alt="Fox"
        style="float: left; margin-right: 10px;" />
-  ## Emojis
+  ## <a name="Emojis">Emojis</a>
     :heart_eyes:
-  ## Tables
+  ## <a name="Table">Tables</a>
   | names | class |   
   |-------|-------|
   | Niku  | 1a    | 
